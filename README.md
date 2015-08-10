@@ -178,6 +178,8 @@ If your textFields are on different customView and do not show previous/next to 
     return YES;
 }
 ```
+#### How to use:
+  Import the "KeyboardManager.h" file in your ViewController
 
 #### Keyboard Return Key Handling:-
   If you would like to implement keyboard **Return Key** as **Next/Done** button, then you can use **IQKeyboardReturnKeyHandler**.([#38](https://github.com/hackiftekhar/IQKeyboardManager/issues/38), [#63](https://github.com/hackiftekhar/IQKeyboardManager/issues/63))
